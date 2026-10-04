@@ -1,0 +1,26 @@
+{
+  "type": "hexalia:ritual_table",
+  "center": {
+    "item": "hexalia:ancient_seed"
+  },
+  "offerings": [
+    {
+      "item": "spartanweaponry:iron_warhammer"
+    },
+    {
+      "item": "hexalia:earth_node"
+    },
+    {
+      "item": "hexalia:tree_resin"
+    },
+    {
+      "item": "minecraft:rooted_dirt"
+    },
+    {
+      "item": "hexalia:spirit_powder"
+    }
+  ],
+  "output": {
+    "item": "spartanweaponryhexalia:ancient_warhammer"
+  }
+}

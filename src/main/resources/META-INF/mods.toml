@@ -1,0 +1,47 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="spartanweaponryhexalia"
+version="${file.jarVersion}"
+displayName="Spartan Weaponry: Hexalia"
+authors="BROMAX"
+description='''
+Adds Hexalia's Ancient tier and a Celestial tier to Spartan Weaponry, crafted at Hexalia's Ritual Table.
+'''
+
+[[dependencies.spartanweaponryhexalia]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.spartanweaponryhexalia]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.spartanweaponryhexalia]]
+    modId="spartanweaponry"
+    mandatory=true
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.spartanweaponryhexalia]]
+    modId="spartantoolkit"
+    mandatory=true
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.spartanweaponryhexalia]]
+    modId="hexalia"
+    mandatory=true
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"

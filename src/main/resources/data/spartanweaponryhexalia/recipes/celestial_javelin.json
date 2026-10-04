@@ -1,0 +1,29 @@
+{
+  "type": "hexalia:ritual_table",
+  "center": {
+    "item": "hexalia:celestial_crystal"
+  },
+  "offerings": [
+    {
+      "item": "spartanweaponryhexalia:ancient_javelin"
+    },
+    {
+      "item": "hexalia:air_node"
+    },
+    {
+      "item": "hexalia:water_node"
+    },
+    {
+      "item": "hexalia:fire_node"
+    },
+    {
+      "item": "hexalia:spirit_powder"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "output": {
+    "item": "spartanweaponryhexalia:celestial_javelin"
+  }
+}
